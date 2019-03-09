@@ -1,7 +1,7 @@
 public class hello{
 	public static void main(String[] args){
 		System.out.printIn("hello");
-		System.out.printIn("Äã°Ö°Öµ½´ËÒ»ÓÎ");
+		System.out.printIn("ä½ å¥½ï¼Œæ˜¨å¤©");
 
 	}
 }
